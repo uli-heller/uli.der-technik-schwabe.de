@@ -13,6 +13,14 @@ Aus der Erinnerung:
 - Neuen Nuki mit altem Handy eingerichtet -> der ist auf
   dem neuen dann nicht sichtbar
 
+Garmin
+------
+
+Paypal
+------
+
+Aus der Erinnerung: Keine Aktion erforderlich.
+
 Google Authenticator
 --------------------
 
