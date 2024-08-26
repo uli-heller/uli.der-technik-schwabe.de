@@ -13,6 +13,15 @@ Aus der Erinnerung:
 - Neuen Nuki mit altem Handy eingerichtet -> der ist auf
   dem neuen dann nicht sichtbar
 
+Übertragung neuer Nuki:
+
+- Altes Handy
+  - Nuki starten
+  - Benutzer einladen -> QR-Code wird angezeigt
+- Neues Handy
+  - QR-Code scannen -> neuer Nuki ist sichtbar und funktioniert
+  - Einstellungen - PIN -> klappt
+
 Garmin
 ------
 
@@ -23,6 +32,11 @@ Aus der Erinnerung: Keine Aktion erforderlich.
 
 Kopfhörer
 ---------
+
+Die Kopfhörer tauchen im Bluetooth-Menü auf mit dem Hinweis: Gekoppelt mit dem alten Telefon.
+Also: Dort entkoppeln und mit dem neuen Telefon koppeln!
+
+- Shokz OpenRun Pro: Ausschalten und dann beim Einschalten den Anschalt-Knopf gedrückt halten bis "Kopplung" angesagt wird
 
 Google Authenticator
 --------------------
