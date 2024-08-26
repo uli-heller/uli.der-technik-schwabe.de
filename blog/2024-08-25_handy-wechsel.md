@@ -92,7 +92,7 @@ Ablauf:
 Links
 -----
 
-- ...
+- [Anleitung von Microsoft](https://support.microsoft.com/en-us/account-billing/back-up-account-credentials-in-microsoft-authenticator-bb939936-7a8d-4e88-bc43-49bc1a700a40#ID0EBF=Android)
 
 Historie
 --------
